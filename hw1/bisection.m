@@ -1,4 +1,3 @@
-
 function [] = bisection(f,a,b,M,delta,epsilon)
     u = f(a);
     v = f(b);
